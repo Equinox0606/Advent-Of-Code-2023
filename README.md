@@ -23,7 +23,7 @@ The primary goals for undertaking these challenges are:
 - Each filecontains:
   - The problem statement or a link to the same.
   - The solution code.
-  - My thought process will solving the problems.
+  - My thought process while solving the problems.
 
 ## Usage
 Feel free to browse through the solutions, test them out, or use them as a reference for your own Advent of Code journey. If you find any errors or have suggestions for optimization, please let me know.
